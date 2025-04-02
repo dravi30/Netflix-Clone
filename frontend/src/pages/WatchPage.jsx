@@ -153,7 +153,7 @@ const WatchPage = () => {
 					)}
 				</div>
 
-				{/* movie details */}
+				
 				<div
 					className='flex flex-col md:flex-row items-center justify-between gap-20 
 				max-w-6xl mx-auto'
